@@ -1,0 +1,14 @@
+Data：Wuhan
+model：proposed_wuhan
+##################### metric #####################
+infer time (s) ：49.4
+Params (Mb) ：40.82
+FLOPs (Gbps) ：228.03
+
+Recall (%) ：57.08
+Precision (%) ：60.67
+OA (%) ：88.82
+F1 (%) ：58.82
+IoU (%) ：41.66
+KC (%) ：52.36
+mIoU (%) ：64.76
